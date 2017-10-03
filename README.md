@@ -1,5 +1,5 @@
 # SkyBlock
-SkyBlock for PocketMine-MP servers. ##API3.0.0-ALPHA9
+SkyBlock for PocketMine-MP servers. # API3.0.0-ALPHA9
 ### Contributions
 You are free to contribute to this project, any kind of help is accepted.
 ### Where can I download it?
